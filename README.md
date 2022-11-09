@@ -13,3 +13,5 @@
 - [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+**Виконав**: Предчук Тарас
